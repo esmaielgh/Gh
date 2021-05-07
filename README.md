@@ -1,1 +1,3 @@
-# Gh
+{
+  "سایت فارسروید": "https://www.farsroid.com/"
+}
