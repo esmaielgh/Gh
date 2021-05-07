@@ -1,3 +1,3 @@
 {
-  "سایت فارسروید": "https://www.farsroid.com/"
+  "فارسروید": "https://www.farsroid.com"
 }
